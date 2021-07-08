@@ -1,7 +1,14 @@
 {% extends 'base.html.twig' %}
+{% block title %}
+    {{ parent() }}Ajout article
+{% endblock %}
 
+{% block TitrePage %}Ajout article{% endblock %}
 {% block body %}
 {#{{ form(form) }}#}{# génère l'intégralité du formulaire#}
+
+
+
     {{ form_start(form) }}
 
  <label for="">Nom de l'article</label>
@@ -19,7 +26,5 @@
 
 {% endblock %}
 
-{% block title %}
 
-{% endblock %}
 

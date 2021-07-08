@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="98793c1b-0e82-4fec-9953-937204488871" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../767-php" beforeDir="false" afterPath="$PROJECT_DIR$/../../767-php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/FrontController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/FrontController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/front/addArticle.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/addArticle.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../session767/COURS/CourSymfo/symfo/bijouterie" beforeDir="false" afterPath="$PROJECT_DIR$/../../session767/COURS/CourSymfo/symfo/bijouterie" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symfo/CourSymfo/symfo/bijouterie" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/CourSymfo/symfo/bijouterie" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symfo/CourSymfo/symfo/blog" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/CourSymfo/symfo/blog" afterDir="false" />
@@ -11,87 +16,91 @@
       <change beforePath="$PROJECT_DIR$/../../symfo/final/Vivaneo/vivaneo2" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/final/Vivaneo/vivaneo2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symfo/final/bijouterie" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/final/bijouterie" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symfo/final/projet_medical_wf3" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/final/projet_medical_wf3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bijouterie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bijouterie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.env.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/commandlinetools/Symfony_06_07_2021_12_36_s.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/symfony2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/symfonyinit.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/bin/console" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/bin/phpunit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/bundles.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/cache.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/dev/debug.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/dev/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/dev/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/doctrine_migrations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/framework.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/mailer.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/notifier.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/prod/deprecations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/prod/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/prod/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/routing.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/security.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/test/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/test/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/test/validator.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/test/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/translation.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/twig.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/packages/validator.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/preload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/routes.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/routes/annotations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/routes/dev/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/routes/framework.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/config/services.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/migrations/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/src/Controller/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/src/Controller/HomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/src/Entity/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/src/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/src/Repository/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/symfony.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/base.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/coucou.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/hello.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/home.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/reponse.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/requete.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/salut.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/templates/home/session.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/tests/bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfonyinit/translations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfo/symfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfo/symfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfony/bijouterie/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/bijouterie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/bijouterie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/commandlinetools/Symfony_07_07_2021_12_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfony/bijouterie/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/bijouterie/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../symfony/bijouterie/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.env.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/commandlinetools/Symfony_06_07_2021_12_36_s.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/symfony2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/symfonyinit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/dev/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/dev/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/doctrine_migrations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/mailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/notifier.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/prod/deprecations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/prod/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/prod/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/test/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/test/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/test/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/test/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/translation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/packages/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/preload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/routes/annotations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/routes/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/routes/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/src/Controller/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/coucou.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/hello.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/home.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/reponse.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/requete.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/salut.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/templates/home/session.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/symfonyinit/translations/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
@@ -237,6 +246,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -261,6 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625662485575</updated>
       <workItem from="1625662490185" duration="8310000" />
+      <workItem from="1625729807111" duration="5383000" />
     </task>
     <servers />
   </component>
@@ -277,5 +288,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
